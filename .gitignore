@@ -15,4 +15,6 @@ Thumbs.db
 
 # Dependency directories
 node_modules/
+
+# Exclude notes or documentation directory
 Notes/
